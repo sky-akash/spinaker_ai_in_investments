@@ -1,0 +1,17 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+xgboost>=2.0
+shap>=0.44
+torch>=2.2
+yfinance>=0.2
+scipy>=1.12
+statsmodels>=0.14
+arch>=7.0
+gymnasium>=0.29
+stable-baselines3>=2.2
+ipykernel>=6.29
+nbformat>=5.9
+tqdm>=4.66
